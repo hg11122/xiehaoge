@@ -24,12 +24,10 @@ taiji-xie
 
 #12
 
-<<<<<<< master
+
 
 #chongcgongtu
 
-=======
->>>>>>> 982ecbe chongtu
 
 
 
