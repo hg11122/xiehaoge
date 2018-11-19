@@ -21,17 +21,8 @@ taiji-xie
 
 #mastor third change
 
-
 #12
 
-<<<<<<< master
-
-#chongcgongtu
-
-=======
->>>>>>> 982ecbe chongtu
-
-
-
+#chongtu
 
 
